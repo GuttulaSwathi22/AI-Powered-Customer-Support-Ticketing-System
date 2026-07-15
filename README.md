@@ -58,8 +58,8 @@ An AI-powered customer support application built on **Salesforce Developer Org**
 ### Record Triggered Flow
 ![Flow](Screenshots/05_Flow.png)
 
-### Dashboard
-![Dashboard](Screenshots/06_Dashboard.png)
+### Objects & Fields Relation
+![Dashboard](Screenshots/06_schema.png)
 
 ---
 
