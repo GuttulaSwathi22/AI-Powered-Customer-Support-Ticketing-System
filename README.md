@@ -1,46 +1,93 @@
-# AI-Powered Customer Support Ticketing System
+# 🤖 AI-Powered Customer Support Ticketing System
 
-## Project Overview
+An AI-powered customer support application built on **Salesforce Developer Org** that automates case management using **Flow Builder**, **Prompt Builder**, and **Agentforce**. The system improves support efficiency through automated case classification, SLA tracking, and AI-generated response suggestions.
 
-The AI-Powered Customer Support Ticketing System is a Salesforce-based application designed to streamline customer support operations.
+---
 
-The system enables organizations to:
+## 🚀 Features
 
-- Create and manage support tickets
-- Track SLA compliance
-- Classify customer issues
-- Generate AI-powered support responses
-- Monitor support performance using reports and dashboards
+- 🎫 Customer Support Case Management
+- 🤖 AI Suggested Responses using Prompt Builder
+- ⚡ Automated Case Classification & Priority Assignment
+- ⏰ SLA Tracking with Record-Triggered Flows
+- 📊 Reports & Dashboards
+- 🔐 Role-Based Security (Profiles & Permission Sets)
+- 💬 AI Feedback Collection
 
-## Features
+---
 
-- Account Management
-- Contact Management
-- Case Management
-- Support Categories
-- SLA Policies
-- AI Feedback
-- AI Suggested Responses
-- Flow Automation
-- Reports and Dashboards
-- Security Controls
+## 🛠️ Tech Stack
 
-## Technologies Used
-
-- Salesforce
-- Agentforce AI
-- Prompt Builder
+- Salesforce Developer Org
 - Flow Builder
+- Prompt Builder
+- Agentforce
+- Lightning App Builder
 - Reports & Dashboards
 
-## Demo
+---
 
-Demo video link will be added here.
+## 📂 Salesforce Objects
 
-## Team Members
+### Standard Objects
+- Account
+- Contact
+- Case
 
-- Guttula Swathi (Team Lead)
-- Sri Lakshmi Puli
+### Custom Objects
+- Support Category
+- SLA Policy
+- AI Feedback
+
+---
+
+## 📸 Screenshots
+
+### Lightning App
+![Lightning App](Screenshots/01_Lightning_App.png)
+
+### Case Management
+![Case](Screenshots/02_Case.png)
+
+### Prompt Builder
+![Prompt Builder](Screenshots/03_Prompt_Builder.png)
+
+### AI Suggested Response
+![AI Response](Screenshots/04_AI_Response.png)
+
+### Record Triggered Flow
+![Flow](Screenshots/05_Flow.png)
+
+### Dashboard
+![Dashboard](Screenshots/06_Dashboard.png)
+
+---
+
+
+---
+
+## 📖 Documentation
+
+Detailed project documentation is available in the **Documentation** folder.
+
+---
+
+## 👥 Team Members
+
+- Guttula Swathi
 - Nikitha Jinugu
-- Mounisha Rathnavalli Savaram
+- Sri Lakshmi Puli
 - Amara Shiva Shankar Javisetty
+- Mounisha Rathnavalli Savaram
+
+---
+
+## 🏫 Institution
+
+**Vishnu Institute of Technology**
+
+Academic Year: **2025–2026**
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
